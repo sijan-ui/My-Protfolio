@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(199, 189, 189);
+}
+
+.half img{
+    width: 70%;
+
+}
+.half{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.educational-qualification{
+    display: flex;
+    margin-left: 20%;
+}
+.educational{
+    display: flex;
+}
+
+
+.total{
+    width: 20%;
+    margin: 2%;
+    padding: 2%;
+}
+.specification{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-position: left;
+}
+
+.contuct{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-position: left;
+    margin-left: 50px;
+    margin-bottom: 100px;
+    width: 40%;
+}
+.button{
+    margin-top: 5px;
+    background-color: rgba(160, 216, 95, 0.616);
+    border-radius: 5px;
+}
+.size{
+    font-size: 20px;
+}
